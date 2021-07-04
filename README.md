@@ -42,14 +42,14 @@ This project require Python.
 Clone this project
 
 ```bash
-> git clone https://github.com/nizariyf/twibot.git
-> cd twibot
+  git clone https://github.com/nizariyf/twibot.git
+  cd twibot
 ```
 
 Install the dependencies:
 
 ```bash
-> pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 ### Usage
@@ -59,31 +59,31 @@ _**before running it, you need to set the existing config, the account used and 
 Run the Tweet
 
 ```bash
-> python main.py -t
+  python main.py -t
 ```
 
 Run the Retweet
 
 ```bash
-> python main.py -r [link tweet]
+  python main.py -r [link tweet]
 ```
 
 Run the Quote tweet
 
 ```bash
-> python main.py -q [link tweet]
+  python main.py -q [link tweet]
 ```
 
 Run the Reply tweet
 
 ```bash
-> python main.py -p [link tweet]
+  python main.py -p [link tweet]
 ```
 
 Run the Create Account Twitter
 
 ```bash
-> python main.py -c [amount account]
+  python main.py -c [amount account]
 ```
 
 ### Information
@@ -110,7 +110,6 @@ Run the Create Account Twitter
 | ------------- | ------------- |
 | Random name and birth date|✅|
 | Random email and automatic verification code|✅|
-| Surah|✅|
 
 ---
 
