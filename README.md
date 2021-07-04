@@ -46,7 +46,7 @@ Clone this project
   cd twibot
 ```
 
-Install the dependencies:
+Install the module:
 
 ```bash
   pip install -r requirements.txt
