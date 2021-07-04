@@ -57,7 +57,7 @@ options = Options()
 options.headless = True
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
-d
+
 class Create:
   def __init__(self, name, email, password):
     self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
